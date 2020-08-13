@@ -8,7 +8,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.ReentrantLock;
 
 @Slf4j
-public class ThreadTests {
+public class PrintYXXYTests {
 
 	static volatile int flag = 1; //1 打印Y  2打印XX
 
